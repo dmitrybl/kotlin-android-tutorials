@@ -1,5 +1,5 @@
 # Kotlin-android-tutorials
-Примеры приложений на Kotlin
+Kotlin android app samples using rxJava, Retrofit
 
 # Quotes
-Приложений, скачивающее новости и цитаты 
+Приложение, скачивающее новости и цитаты 
