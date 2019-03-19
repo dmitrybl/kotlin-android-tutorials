@@ -5,4 +5,4 @@ Kotlin android app samples using rxJava, Retrofit
 Приложение, скачивающее новости и цитаты 
 
 # RetrofitRxJavaSample
-Simple example of using Retrofit + rxJava to download and parse json
+Simple example of usage Retrofit + rxJava to download and parse json
