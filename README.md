@@ -9,3 +9,6 @@ Simple example of usage Retrofit + rxJava to download and parse json
 
 # rxJavaSample2
 Usage of map, flatMap, switchMap, concatMap, filter, scan, rxbinding, debounce, etc...
+
+# HandlerThreadExample
+Example of usage HandlerThread to transform Bitmap image pixels asynchronously
