@@ -1,5 +1,5 @@
 # Kotlin-android-tutorials
-Kotlin android app samples using rxJava, Retrofit
+Kotlin android app samples using rxJava, Retrofit, MVP, Room and other popular technologies in Android
 
 # Quotes
 Приложение, скачивающее новости и цитаты 
