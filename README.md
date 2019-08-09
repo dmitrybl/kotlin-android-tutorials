@@ -12,3 +12,6 @@ Usage of map, flatMap, switchMap, concatMap, filter, scan, rxbinding, debounce, 
 
 # HandlerThreadExample
 Example of usage HandlerThread to transform Bitmap image pixels asynchronously
+
+# RoomSqliteDatabase
+Simple example of usage Room Database in Android. This example includes three operations (add, get, delete) upon one table.
