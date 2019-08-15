@@ -1,5 +1,5 @@
 # Kotlin-android-tutorials
-Kotlin android app samples using rxJava, Retrofit
+Kotlin android app samples using rxJava, Retrofit, MVP, Room and other popular technologies in Android
 
 # Quotes
 Приложение, скачивающее новости и цитаты 
@@ -12,3 +12,6 @@ Usage of map, flatMap, switchMap, concatMap, filter, scan, rxbinding, debounce, 
 
 # HandlerThreadExample
 Example of usage HandlerThread to transform Bitmap image pixels asynchronously
+
+# RoomSqliteDatabase
+Simple example of usage Room Database in Android. This example includes three operations (add, get, delete) upon one table.
